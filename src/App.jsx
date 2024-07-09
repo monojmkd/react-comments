@@ -1,7 +1,7 @@
 // src/App.js
 import React from "react";
 import CommentList from "./components/CommentList";
-import "./App.css"; // Import the global CSS
+import "./App.css";
 import mountains from "./assets/mountains.jpg";
 
 const App = () => {

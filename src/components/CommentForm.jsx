@@ -1,6 +1,4 @@
-// src/components/CommentForm.js
 import React, { useState } from "react";
-// Assuming your CSS file is named CommentForm.css
 
 const CommentForm = ({ submitComment }) => {
   const [text, setText] = useState("");

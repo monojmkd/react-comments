@@ -1,4 +1,3 @@
-// src/components/Comment.js
 import React, { useState } from "react";
 import CommentForm from "./CommentForm";
 import boy from "../assets/boy.png";

@@ -1,4 +1,3 @@
-// src/components/CommentList.js
 import React, { useState, useEffect } from "react";
 import Comment from "./Comment";
 import CommentForm from "./CommentForm";
